@@ -1,0 +1,20 @@
+"id","customer_name","customer_id","bike_name","company_name","state","city","price","status"
+2,"ketan fulzele",65741,"splender","honda","Maharashtra","mumbai",100000,false
+3,"aniket yeole",32145,"shine","bajaj","Rajasthan","ajmer",50000,True
+4,"prajwal yeole",74512,"discover","honda","Rajasthan","bikaner",200000,false
+5,"harshal sankade",98547,"activa","hero","Kerala","kollam",300000,True
+6,"Atul wasnik",45124,"jupiter","TVS","kerala","pallakad",400000,True
+7,"sujal kale",14512,"royal enfield","yamaha","panjab","amritsar",500000,false
+8,"kajal madavi",21452,"java","tvs","UP","aligarh",600000,True
+9,"pooja meshram",89471,"kawasaki","yamaha","Madhya Pradesh","bhopal",1000000,True
+10,"anikta meshram",95124,"Pept","bajaj","Maharashtra","pune",40000,True
+11,"sanjana chavhan",85412,"jupiter","Yamaha","Maharashtra","bhandara",60000,false
+12,"sangita moon",41241,"access125","hero","Chennai","Tiruttani",80000,True
+13,"sukanya gawali",54124,"vespa","tvs","Chennai","Tamaraipakkam",140000,True
+14,"govind bajaj",65412,"avenger","hero","jammu","shirnagar",15000000,True
+15,"vishal chavhan",69512,"discover","honda","dehli","dramandi",60000,True
+16,"Ridhi hood",75124,"jupiter","tvs","Kashmir","pahalgam",240000,false
+17,"Divya vaidya",35214,"deo","homda","karnataka","bengaluru",320000,True
+18,"pranju yeole",32145,"pept","tvs","Maharashtra","wardha",360000,false
+19,"janvi patil",85412,"Activa6g","honda","west bengal","gurgapur",450000,false
+20,"Neha Meshram",63214,"ather","ather","assam","guwahati",950000,True
